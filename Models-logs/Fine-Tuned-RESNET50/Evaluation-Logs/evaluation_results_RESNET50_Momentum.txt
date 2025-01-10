@@ -1,0 +1,6 @@
+Metric	Value
+Test Loss	0.0156
+Test Accuracy	99.53%
+Precision	0.9956
+Recall	0.9953
+F1-Score	0.9954

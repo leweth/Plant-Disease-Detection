@@ -1,0 +1,11 @@
+epoch,train_loss,train_acc,val_loss,val_acc,time_elapsed
+1,0.041234432040142266,"tensor(0.9878, device='cuda:0', dtype=torch.float64)",0.01590811176404309,"tensor(0.9949, device='cuda:0', dtype=torch.float64)",378.18174171447754
+2,0.03980236621653886,"tensor(0.9874, device='cuda:0', dtype=torch.float64)",0.017606433722201362,"tensor(0.9947, device='cuda:0', dtype=torch.float64)",378.7744002342224
+3,0.0395299772107791,"tensor(0.9880, device='cuda:0', dtype=torch.float64)",0.01994435281117874,"tensor(0.9935, device='cuda:0', dtype=torch.float64)",379.027055978775
+4,0.03543724166009992,"tensor(0.9891, device='cuda:0', dtype=torch.float64)",0.018113896496792976,"tensor(0.9948, device='cuda:0', dtype=torch.float64)",378.92012786865234
+5,0.03322784971478155,"tensor(0.9900, device='cuda:0', dtype=torch.float64)",0.02365263415096407,"tensor(0.9921, device='cuda:0', dtype=torch.float64)",378.4497961997986
+6,0.034182868810364905,"tensor(0.9905, device='cuda:0', dtype=torch.float64)",0.012005037595856428,"tensor(0.9962, device='cuda:0', dtype=torch.float64)",379.0867235660553
+7,0.03187126218133292,"tensor(0.9904, device='cuda:0', dtype=torch.float64)",0.016892234915779663,"tensor(0.9954, device='cuda:0', dtype=torch.float64)",378.42317485809326
+8,0.0325259217702078,"tensor(0.9903, device='cuda:0', dtype=torch.float64)",0.016771598855578582,"tensor(0.9958, device='cuda:0', dtype=torch.float64)",379.30285358428955
+9,0.02921197936233241,"tensor(0.9913, device='cuda:0', dtype=torch.float64)",0.015478097574676707,"tensor(0.9954, device='cuda:0', dtype=torch.float64)",379.0853431224823
+10,0.03207903857599089,"tensor(0.9898, device='cuda:0', dtype=torch.float64)",0.015641446995855714,"tensor(0.9953, device='cuda:0', dtype=torch.float64)",378.6528511047363
