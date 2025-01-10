@@ -1,4 +1,4 @@
-Metric	Value
+Metric		Value
 Test Loss	0.2078
 Test Accuracy	93.85%
 Precision	0.9430

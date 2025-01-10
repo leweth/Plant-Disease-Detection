@@ -1,0 +1,5 @@
+Metric		Value
+Accuracy 	84.91%
+Precision 	0.8595
+Recall		0.8491
+F1 Score 	0.8497
