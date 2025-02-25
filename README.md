@@ -1,2 +1,5 @@
 # Plant-Disease-Detection
-This repository is about an attempt to solve a computer vision problem using various Machine Learning methods.
+
+The repository contains various deep learning algorithms to solve a computer vision problem. These algorithms are based on covolutionnal neural networks (CNNs).
+
+### The structure of the repository
